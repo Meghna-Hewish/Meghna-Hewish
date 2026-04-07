@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I’m Meghna a **Graduate Software Engineer & Aspiring Data Analyst / Junior Technical Business Analyst**, actively seeking opportunities in the UK.
+Hi, I’m Meghna a Data Analyst with a strong background in Software Engineering, specialising in Power BI, SQL, and data-driven insights.
 
 I combine **technical skills with 4+ years of customer-focused experience**, enabling me to understand user needs, analyse business problems, and deliver **data-driven, practical solutions**.
 
