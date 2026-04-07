@@ -36,7 +36,7 @@ Created KPI metrics and visual insights to support business decision-making.
 
 🔹 **3D Portfolio Website**  
 Built using React, TypeScript & Three.js to create an interactive and visually engaging experience.  
-🌐 https://stellar-nasturtium-148313.netlify.app/
+🌐 [https://stellar-nasturtium-148313.netlify.app/](https://stellular-nasturtium-148313.netlify.app/)
 
 🔹 **Credit Card Fraud Detection System**  
 Developed a machine learning model using Python (Pandas, NumPy, Scikit-learn) to detect fraudulent transactions.  
